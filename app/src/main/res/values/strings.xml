@@ -1,0 +1,53 @@
+<resources>
+    <color name="blue">#98AFC7</color>
+
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="name1">Liz</string>
+    <string name="number1">6511234567</string>
+    <string name="name2">Lydia</string>
+    <string name="number2">6129876543</string>
+    <string name="name3">Kyle</string>
+    <string name="number3">7155671234</string>
+
+
+    <string-array name="name">
+        <item>Liz</item>
+        <item>Lydia</item>
+        <item>Kyle</item>
+    </string-array>
+
+    <string-array name="number">
+        <item>6511234567</item>
+        <item>6129876543</item>
+        <item>7155671234</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Hi</item>
+        <item>On my way</item>
+        <item>OK</item>
+        <item>Thanks</item>
+        <item>How is it going?</item>
+        <item>I will call you later</item>
+    </string-array>
+
+    <string-array name="messages2">
+        <item>Hi</item>
+        <item>On my way</item>
+        <item>OK</item>
+        <item>Thanks</item>
+        <item>How is it going?</item>
+        <item>I will call you later</item>
+    </string-array>
+
+    <string-array name="messages3">
+        <item>Hi</item>
+        <item>On my way</item>
+        <item>OK</item>
+        <item>Thanks</item>
+        <item>How is it going?</item>
+        <item>I will call you later</item>
+    </string-array>
+
+</resources>
